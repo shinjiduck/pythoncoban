@@ -36,3 +36,4 @@ plt.show()
 
 plt.savefig("top5_quoc_gia.png", dpi=150)
 plt.show()
+
